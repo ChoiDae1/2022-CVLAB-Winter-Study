@@ -17,3 +17,5 @@ All of contents of this part are based on a book named **Effective Python(second
 - Item 37 - Item 43
 ### 6. Metaclasses and Attributes -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/Advanced_Python/6.%20Metaclasses%20and%20Attributes.ipynb)
 - Item 44 - Item 51
+
+## PyTorch
