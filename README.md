@@ -29,7 +29,7 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 - Understand PyTorch with Examples, fitting sin function.
 - Compare PyTorch with numpy.
 ### 3. What is torch.nn really -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/What%20is%20torch.nn%20really.ipynb)
-- implement mini project by using MNIST dataset.
+- Implement mini project by using MNIST dataset.
 - Various functions provided by torch.nn.
 ### 4. Visualizing with TensorBoard -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Visualizing%20with%20TensorBoard.ipynb)
 - Setup TensorBoard by using PyTorch.
