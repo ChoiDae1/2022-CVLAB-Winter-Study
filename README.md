@@ -19,3 +19,9 @@ All of contents of this part are based on a book named **Effective Python(second
 - Item 44 - Item 51
 
 ## PyTorch
+All of contents of this part are based on **PyTorch Tutorial** -> https://pytorch.org/tutorials/
+
+### 1. Learn the Basics -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learn%20the%20Basics.ipynb)
+### 2. Learning Pytorch with Examples -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learning%20Pytorch%20with%20Examples.ipynb)
+### 3. What is torch.nn really -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/What%20is%20torch.nn%20really.ipynb)
+### 4. Visualizing with TensorBoard -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Visualizing%20with%20TensorBoard.ipynb)
