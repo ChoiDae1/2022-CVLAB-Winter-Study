@@ -36,3 +36,6 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 #### 4) Visualizing with TensorBoard -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Visualizing%20with%20TensorBoard.ipynb)
 - Setup TensorBoard by using PyTorch.
 - Various functions provided by TensorBoard
+
+### 2. Image and Video
+
