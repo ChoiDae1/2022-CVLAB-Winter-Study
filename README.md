@@ -21,18 +21,18 @@ All of contents of this part are based on a book named **Effective Python(second
 ## PyTorch
 All of contents of this part are based on **PyTorch Tutorial** -> https://pytorch.org/tutorials/
 
-### Introduction to PyTorch
+### 1. Introduction to PyTorch
 
-#### 1. Learn the Basics -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learn%20the%20Basics.ipynb)
+#### 1) Learn the Basics -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learn%20the%20Basics.ipynb)
 - Basics of manipulating tensors, dataset & dataloader.
 - Concept of AutoGrad.
 - Build simple neural network, optimizing model parameter.
-#### 2. Learning Pytorch with Examples -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learning%20Pytorch%20with%20Examples.ipynb)
+#### 2) Learning Pytorch with Examples -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Learning%20Pytorch%20with%20Examples.ipynb)
 - Understand PyTorch with Examples, fitting sin function.
 - Compare PyTorch with numpy.
-#### 3. What is torch.nn really -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/What%20is%20torch.nn%20really.ipynb)
+#### 3) What is torch.nn really -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/What%20is%20torch.nn%20really.ipynb)
 - Implement mini project by using MNIST dataset.
 - Various functions provided by torch.nn.
-#### 4. Visualizing with TensorBoard -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Visualizing%20with%20TensorBoard.ipynb)
+#### 4) Visualizing with TensorBoard -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Visualizing%20with%20TensorBoard.ipynb)
 - Setup TensorBoard by using PyTorch.
 - Various functions provided by TensorBoard
