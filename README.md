@@ -39,3 +39,22 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 
 ### 2. Image and Video
 
+#### 1) TorchVision Instance Segmentation Finetuning Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/torchvision_finetuning_instance_segmentation.ipynb)
+- Implement mini project for Instance Segmentation.
+- FineTuning Mask R-CNN.
+#### 2) Transfer Learning Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/Transfer_Learning_Tutorial.ipynb)
+- Implement Fine-Tuning model for classification task using PyTorch.
+- Using Ant-Bee Dataset.
+#### 3) Optimizing Vision Transfomer Model for Deployment -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/Optimizing_Vision_Transfomer_Model_for_Deployment.ipynb) 
+- Concept of Deit and Quantization.
+- Method for Deploying Deit to Sever and Mobile.
+#### 4) Adversarial Example Generation -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/Adversarial_Example_Generation.ipynb)
+- Introduction to Adversarial Machine Learning.
+- Concept of Fast Gradient Sign Attack and applying it to classification task.
+#### 5) DCGAN Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/DCGAN_Tutorial.ipynb)
+- Implement DCGAN for Image Generation.
+- Using the Celeb-A Faces dataset.
+#### 6) Spatial Transfomer Network Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/Spatial%20Transfomer%20Network%20Tutorial.ipynb)
+- Introduction to STN.
+- Implement STN to classification task.
+
