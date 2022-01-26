@@ -41,7 +41,7 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 
 #### 1) TorchVision Instance Segmentation Finetuning Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/torchvision_finetuning_instance_segmentation.ipynb)
 - Implement mini project for Instance Segmentation.
-- FineTuning Mask R-CNN.
+- Fine-Tuning Mask R-CNN.
 #### 2) Transfer Learning Tutorial -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Image%20and%20Video/Transfer_Learning_Tutorial.ipynb)
 - Implement Fine-Tuning model for classification task using PyTorch.
 - Using Ant-Bee Dataset.
