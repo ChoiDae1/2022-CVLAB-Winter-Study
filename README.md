@@ -60,10 +60,10 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 
 ### 3. Distributed Training
 
-#### 1) Getting Started with Distributed Data Parallel -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Distribution%20Learning/Getting%20Started%20with%20Distributed%20Data%20Parallel.ipynb)
+#### 1) Getting Started with Distributed Data Parallel -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Distributed%20Training/Getting%20Started%20with%20Distributed%20Data%20Parallel.ipynb)
 - Introdiction DDP(Distributed Data Parallel)
 - Code of DDP
-#### 2) Single-Machine Model Parallel Best Practices -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Distribution%20Learning/Single-Machine%20Model%20Parallel%20Best%20Practices.ipynb)
+#### 2) Single-Machine Model Parallel Best Practices -> [codelink](https://github.com/ChoiDae1/2022_CVLAB_Winter_Study/blob/main/PyTorch/Distributed%20Training/Single-Machine%20Model%20Parallel%20Best%20Practices.ipynb)
 - Introduction to Model Parallel
 - Basic code and More faster code for Model Parallel
 
