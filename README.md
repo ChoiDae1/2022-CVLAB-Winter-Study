@@ -67,3 +67,9 @@ All of contents of this part are based on **PyTorch Tutorial** -> https://pytorc
 - Introduction to Model Parallel
 - Basic code and More faster code for Model Parallel
 
+## Git and Linux
+I used **these sites** to study.
+
+Git -> [link](https://www.w3schools.com/git/default.asp?remote=github)</br>
+Linux -> [link](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+
