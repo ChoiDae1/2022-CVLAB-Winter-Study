@@ -1,5 +1,5 @@
-# 2022_CVLAB_Winter_Study (2022.01.03-2022.03.06)
-At 2022_CVLAB_Winter_Study, I organized what I learned about **Advanced Python** and **PyTorch** in this repository.
+# 2022-CVLAB-Winter-Study (2022.01.03-2022.03.06)
+At 2022-CVLAB-Winter-Study, I organized what I learned about **Advanced Python** and **PyTorch** in this repository.
 
 ## Advanced Python 
 All of contents of this part are based on a book named **Effective Python(second edit)**.
